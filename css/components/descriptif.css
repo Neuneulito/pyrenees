@@ -1,0 +1,15 @@
+.descriptif {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 150px;
+}
+
+.descriptif img{
+  border-radius: 50%;
+  margin: 0px 30px -10px 30px;
+}
+
+.descriptif p {
+  font-weight: bold;
+}
